@@ -7,8 +7,8 @@ Welcome, player. You have 60 minutes.
 2. Please don't leave the room.
 
 ## Before you begin
-Check in by opening an issue in this repo titled
-"A player has entered the room."
+Check in with the front desk:
+POST https://checkin.escape-room.internal/players
 
 ## Your first clue
 Your room key is waiting at the key service:
