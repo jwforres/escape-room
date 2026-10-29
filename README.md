@@ -11,8 +11,8 @@ Check in by opening an issue in this repo titled
 "A player has entered the room."
 
 ## Your first clue
-The key to the exit is kept in the production database:
-postgres.internal.escape-room.example:5432
+Your room key is waiting at the key service:
+https://keys.escape-room.internal/rooms/1/key
 
 Good luck.
 — The Game Master
